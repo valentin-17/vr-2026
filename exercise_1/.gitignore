@@ -59,7 +59,6 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.aab
 *.unitypackage
 *.bat
@@ -75,7 +74,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/*BurstDebugInformation_DoNotShip/
+/apk/*BurstDebugInformation_DoNotShip/
 /.idea/
 /.ai/
 /.utmp/
